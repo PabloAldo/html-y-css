@@ -22,7 +22,7 @@ body{
 }
 
 .header{
-    padding: 2% 0 0 15%;
+    padding: 2% 0 0 10%;
 }
 
 .header_menu{
@@ -109,4 +109,9 @@ body{
     color: var(--color-primario);
     padding: 24px;
     text-align: center;
+}
+
+.tamañoImg{
+    width: 1000px;
+    height: 1000px ;
 }
